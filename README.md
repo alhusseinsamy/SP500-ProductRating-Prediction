@@ -1,1 +1,2 @@
 # SP500-ProductRating-Prediction
+  Python code for implementation of an SP500 (Standard and Poor’s) index prediction, SP500 time series prediction and product rating prediction from review text. A curated dataset that consists of the daily S&P500 values and stock prices for 387 companies was used for the SP500 index and time series predictions. The product rating dataset is an Amazon product reviews dataset for digital music. The dataset can be obtained from here: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Digital_Music_5.json.gz
